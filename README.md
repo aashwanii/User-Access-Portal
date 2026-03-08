@@ -6,13 +6,13 @@ A complete Authentication System with **Email Verification** and **Password Rese
 
 </div>
 
-<br /><hr /><br />
+<!-- <br /><hr /><br /> -->
 
 <div align="center">
 
 </div>
 
-<br /><hr /><br />
+<!-- <br /><hr /><br /> -->
 
 ## Project Overview
 
